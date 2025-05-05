@@ -1,0 +1,11 @@
+START
+  |
+Check if list is empty or 1 node → return True
+  |
+Find middle using slow/fast pointers
+  |
+Reverse second half
+  |
+Compare first half and reversed second half
+  |
+If all match → return True else False
